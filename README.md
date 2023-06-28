@@ -21,6 +21,6 @@ Teste para validar as partições de equivalência relacionadas ao valor do prod
 
 ## Notas Gerais
 
-
+-   Utilizamos page para padronizar e organizar o código e funções.
 -   Criamos dados iniciais através do uso de classe Data Factory ara facilitar a criação e controle dos mesmos.
 -   Nesse projeto fazemos uso do JUnit 5, o que nos dá a possibilidade de usar a anotação DisplayName para dar descrições em português para nossos testes.
