@@ -1,7 +1,6 @@
 package modulos.produtos;
 
 //needed imports:
-
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
