@@ -6,7 +6,7 @@ Esse é um repositório que contém a automação de alguns teste de Web de um s
 ## Tecnologias Utilizadas
 
  -  Java
-(oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
+(https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
  - JUnit
 (https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine/5.9.1)
  - Rest Assured  
