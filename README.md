@@ -1,17 +1,19 @@
+
 # Lojinha Web Automação
 
 Esse é um repositório que contém a automação de alguns teste de Web de um software denominado Lojinha. Os sub-tópicos abaixo descrevem algumas decisões tomadas na estruturação do projeto.
 
 ## Tecnologias Utilizadas
 
-. Java
-oracle.com/java/technologies/javase/jdk18-archive-downloads.html
-. JUnit
-https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine/5.9.1
-. Rest Assured  
-https://mvnrepository.com/artifact/io.rest-assured/rest-assured/5.2.0
-. Maven
-https://maven.apache.org/
+ -  Java
+(oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
+ - JUnit
+(https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine/5.9.1)
+ - Rest Assured  
+(https://mvnrepository.com/artifact/io.rest-assured/rest-assured/5.2.0)
+ - Maven
+(https://maven.apache.org/)
+
 
 ## Testes Automatizados
 
