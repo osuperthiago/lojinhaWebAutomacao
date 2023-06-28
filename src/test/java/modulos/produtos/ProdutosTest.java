@@ -1,10 +1,14 @@
 package modulos.produtos;
 
+<<<<<<< HEAD
 //needed imports:
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+=======
+
+>>>>>>> 104c93ec1cc490179bed291af70127177488e639
 import paginas.LoginPage;
 
 import java.time.Duration;
