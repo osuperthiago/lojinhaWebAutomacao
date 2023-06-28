@@ -29,7 +29,7 @@ public class ProdutosTest {
         this.navegador.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 
         //Navegar para a pagina da lojinha web
-        this.navegador.get("http://165.227.93.41/lojinha-web/v2/");
+        this.navegador.get("http://165.227.93.41/lojinha-web-bugada/v2/");
 
     }
 
